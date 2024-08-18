@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any open-source project**
 
-- 👨‍💻 All of my projects are available at [manuelebarone.com](manuelebarone.com)
+- 👨‍💻 All of my projects are available at [manuelebarone.com](https://manuelebarone.com)
 
 - 📫 How to reach me **manuelebarone186@gmail.com**
 
