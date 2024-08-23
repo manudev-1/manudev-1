@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manudev-1" alt="manudev-1" /></a> </p>
 
-- 🔭 I’m currently working on [CamAscii](https://github.com/manudev-1/CamAscii)
+- 🔭 I’m currently working on [WeatherWiz](https://github.com/manudev-1/WeatherWiz)
 
 - 👯 I’m looking to collaborate on **any open-source project**
 
